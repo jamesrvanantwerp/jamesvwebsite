@@ -2,7 +2,7 @@
   "name": "jamesvwebsite",
   "version": "1.0.0",
   "description": "Website to help beginner jiu-jitsu practitioners",
-  "main": "index.html",
+  "main": "index1.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
   }
